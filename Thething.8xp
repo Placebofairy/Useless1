@@ -25,5 +25,5 @@ PROGRAM:PRPRTION
 :C*(B/D)→S
 :Goto 5
 :Lbl 5
-:Disp “D=”,S
+:Disp “ANS=”,S
 :Stop
